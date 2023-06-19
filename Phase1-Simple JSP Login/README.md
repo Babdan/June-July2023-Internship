@@ -6,13 +6,14 @@ This project is a simple SCADA (Supervisory Control and Data Acquisition) websit
 
 SCADAProject
 ├── WEB-INF
-│   ├── classes
-│   └── lib
-│       └── mysql-connector-java-x.x.xx.jar
+│ ├── classes
+│ └── lib
+│ └── mysql-connector-java-x.x.xx.jar
 ├── home.jsp
 ├── index.jsp
 ├── login.jsp
 └── loginCheck.jsp
+
 
 - `WEB-INF`: This directory contains web application-specific resources.
   - `classes`: This directory is used to store compiled Java classes (if any).
